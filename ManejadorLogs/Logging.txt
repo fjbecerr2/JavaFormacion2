@@ -1,0 +1,4 @@
+nov. 09, 2020 1:25:36 P. M. ManejadorLogs.MyLog escribeLog
+GRAVE: Mensaje SEVERE
+nov. 09, 2020 1:25:36 P. M. ManejadorLogs.MyLog escribeLog
+ADVERTENCIA: Mensaje WARNING
