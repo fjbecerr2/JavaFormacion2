@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Fichero ejemplo Properties</comment>
+<entry key="rutadocumentos">docs</entry>
+<entry key="rutarecursos">resources</entry>
+<entry key="rutalibrerias">librerias</entry>
+<entry key="colorError">\u001B[31m</entry>
+<entry key="colorOK">\u001B[32m</entry>
+</properties>
