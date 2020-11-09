@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datosEmail>
+	<nota>
+  		<nombre>Persona Uno</nombre>
+  		<emailDireccion>personaUno@gmail.com</emailDireccion>
+	</nota>
+	<nota>
+  		<nombre>Persona Dos</nombre>
+  		<emailDireccion>personaDos@gmail.com</emailDireccion>
+	</nota>
+	<nota>
+  		<nombre>Persona Tres</nombre>
+  		<emailDireccion>personaTres@gmail.com</emailDireccion>
+  	</nota>
+  	<nota>
+  		<nombre>Persona Cuatro</nombre>
+  		<emailDireccion>personaCuatro@gmail.com</emailDireccion>
+  	</nota>
+</datosEmail>
+<!-- Estructura testeada con: https://jsonformatter.org/xml-editor -->
